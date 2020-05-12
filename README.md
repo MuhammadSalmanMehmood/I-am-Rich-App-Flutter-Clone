@@ -1,4 +1,4 @@
-# hell
+# I am Rich App (Flutter Clone)
 
 A new Flutter project.
 
