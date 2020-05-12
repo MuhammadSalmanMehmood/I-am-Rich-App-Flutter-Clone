@@ -11,8 +11,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-              image: NetworkImage(
-                  'https://plugins.jetbrains.com/files/13666/85971/icon/META-INF_pluginIcon.png')),
+              image: AssetImage('images/diamond.png')),
         ),
       ),
     ),
